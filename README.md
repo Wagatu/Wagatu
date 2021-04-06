@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Wagatu Ian.
-- 👀 I have a passionate in  Network  Security architect,a side interest in Car Hacking and micro controllers.
-- 🌱 I’m currently working on creating a lower cost approximation of the Toyota PASTA,Portable Automotive Testbed with Adaptability ,using consumer hardware and Arduino based software
-- 💞️ I’m looking to collaborate with professionals of all stripes
-- 📫 You may reach me on;Instagram,Twitter...
 
 
 <!---
